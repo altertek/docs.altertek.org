@@ -5,12 +5,12 @@
 ## Install
 
 ```
-git clone git@github.com:altertek/docs.altertek.org.git
-npm i docsify-cli -g
+git clone https://github.com/altertek/docs.altertek.org.git
+npm install docsify-cli
 ```
 
 ## Preview in development
 
 ```
-docsify serve docs.altertek.org
+npx docsify serve docs.altertek.org
 ```
