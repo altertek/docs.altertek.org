@@ -1,5 +1,11 @@
 # Hosting
 
-Servers:
-- Unmanaged Cloud Server - Infomaniak (Switzerland): 2 CPU RAM 6GB, SSD 100GB, Bandwidth 10Gbps, debian
-- Instance DEV1-S - Scaleway (France): 2 vCPU, RAM 2GB, SSD 20Go NVMe, Bandwidth 200Mbps, debian
+
+| Function       | Stats           | Location    | Sponsor            |
+|----------------|-----------------|-------------|--------------------|
+| Main App Server| 2vCPU, 6GB RAM  | Switzerland | -                  |
+| Peertube       | 2vCPU, 2GB RAM  | France      | -                  |
+| Nextcloud      | 2vCPU, 2GB RAM  | France      | Alexandre Kalatzis |
+| Sandbox        | 4vCPU, 16GB RAM | France      | Alexandre Kalatzis |
+| Shared hosting |                 | Switzeland  | Alexandre Kalatzis |
+| Bastion        | 1vCPU, 1GB RAM  | France      | Alexandre Kalatzis |
