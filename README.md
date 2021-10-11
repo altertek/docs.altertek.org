@@ -12,5 +12,5 @@ npm install docsify-cli
 ## Preview in development
 
 ```
-npx docsify serve docs.altertek.org
+npx docsify serve src
 ```
