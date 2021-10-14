@@ -6,5 +6,4 @@
   * [Hosting](content/hosting.md)
   * [Back up](content/backup.md)
   * [Services](content/services.md)
-  * [Tools](content/tools.md)
-
+  * [Technical stack](content/technical-stack.md)

@@ -1,0 +1,22 @@
+# Technical stack
+
+- Internal services
+   - [Nextcloud](https://nextcloud.com)
+   - [Framapad](https://framapad.org/en)
+- Internal tool
+   - [Debian](https://www.debian.org): Operating system
+   - [Nginx](https://www.nginx.com): Web server, reverse proxy and load balancer
+- Third-party services
+    - [gandi.net](https://www.gandi.net/en) (France) : domain name
+    - [updown.io](https://updown.io) (France): Website monitoring
+    - [Infomaniak Mail](https://www.infomaniak.com/en/hosting/service-mail/ecosystem) (Switzerland): Mail management
+    - [Mailjet](https://fr.mailjet.com) (France): Marketing and transactional emails
+    - [GitHub](https://github.com/) (USA): Source code management & collaborative version control
+- CLI tools
+    - [Restic](https://restic.net): Modern backup program that can back
+    - [rsync](https://rsync.samba.org): Fast incremental file transfer
+    - [git](https://git-scm.com): Distributed version control system
+    - [htop](https://htop.dev): Interactive process viewer
+    - [docker-ce](https://www.docker.com/products/container-runtime): Providing a standardized packaging format for diverse applications
+    - [docker-compose](https://docs.docker.com/compose): Defining and running multi-container Docker applications
+    - [curl](https://curl.se): Transferring data with URLs
