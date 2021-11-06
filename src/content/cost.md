@@ -9,3 +9,4 @@
 - Web monitoring : 70.30€ TTC (sponsored by Updown.io)
 - Third server: 60.00€ Tax incl. / year (sponsored by Alexandre Kalatzis)
 - SSH Bastion: 24€ Tax incl. / year (sponsored by Alexandre Kalatzis)
+- SSH Bastion: 24€ Tax incl. / year (sponsored by Hexatech)

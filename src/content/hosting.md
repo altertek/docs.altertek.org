@@ -8,4 +8,4 @@
 | Sandbox        | 4vCPU, 16GB RAM | France      | Debian    | Alexandre Kalatzis |
 | Shared hosting |                 | Switzeland  | -         | Alexandre Kalatzis |
 | Bastion 1      | 1vCPU, 1GB RAM  | Netherlands | Debian    | Hexatech           |
-| Bastion 2      | 1vCPU, 1GB RAM  | France      | Debian    | Alexandre Kalatzis |
+| Bastion 2      | 1vCPU, 1GB RAM  | France      | Ubuntu    | Alexandre Kalatzis |
