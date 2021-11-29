@@ -1,12 +1,12 @@
 # docs.altertek.org
 
-> Documentation for altertek services
+> Static documentation for altertek services & organisation
 
 ## Install
 
 ```
 git clone https://github.com/altertek/docs.altertek.org.git
-npm install docsify-cli
+npm ci
 ```
 
 ## Preview in development
