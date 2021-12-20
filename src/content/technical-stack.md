@@ -11,7 +11,7 @@
   - [Debian](https://www.debian.org)
   - [Ubuntu](https://ubuntu.com)
 
-- Packages
+- Packages / tools
   - [ansible](https://www.ansible.com/): Automation and deployment tool
   - [nginx](https://www.nginx.com): Web server, reverse proxy
   - [firewalld](https://firewalld.org/): Dynamically managed firewall with IPv6 support
@@ -22,3 +22,4 @@
   - [git](https://git-scm.com): Distributed version control system
   - [htop](https://htop.dev): Process viewer
   - [certbot](https://certbot.eff.org/): Used to obtain Let's encrypt certificates
+  - [nginx-le-setup](https://github.com/alpha14/nginx-le-setup): Wrapper for certbot and nginx virtual host deployment
