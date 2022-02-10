@@ -1,5 +1,9 @@
 # Technical stack
 
+- Altertek Infra
+  - [Docker files](https://github.com/altertek/dockerfiles): Our docker compose stack
+  - [Infra scripts](https://github.com/altertek/infra-scripts): Scripts used on our servers
+
 - Internal services
   - [Nextcloud](https://nextcloud.com): Data sharing and Agenda
   - [Onlyoffice](https://www.onlyoffice.com/): Collaborative document edition plugged with Nextcloud
