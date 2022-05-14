@@ -2,7 +2,7 @@
 
 - Public services
   - [Meet](https://meet.altertek.org) (Jitsi instance): Video conference
-    - [Official Website]()
+    - [Official Website](https://jitsi.org/jitsi-meet/)
     - [Source code](https://github.com/jitsi/jitsi-meet)
     - [User documentation](https://jitsi.github.io/handbook/docs/user-guide/user-guide-start)
     - [Technical documentation](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start)
